@@ -10,4 +10,7 @@ Collection of survey papers about human computation
 | The future of crowd work | [paper](https://dl.acm.org/citation.cfm?id=2441923) | CSCW | 2013 |
 | Human computation: a survey and taxonomy of a growing field | [paper](https://dl.acm.org/citation.cfm?id=1979148) | CHI | 2011 |
 | A Survey of Crowdsourcing Systems | [paper](http://ieeexplore.ieee.org/abstract/document/6113213/) | SocialCom | 2011 | 
+| Crowdsourcing systems on the World-Wide Web | [paper](https://dl.acm.org/citation.cfm?id=1924442) | ACM Communications | 2011|
+| A survey of crowdsourcing as a means of collaboration and the implications of crowdsourcing for interaction design | [paper](http://ieeexplore.ieee.org/abstract/document/5928716/) | CTS | 2011 |
+| Who are the Crowdworkers? Shifting Demographics in Mechanical Turk | [paper](https://dl.acm.org/citation.cfm?id=1753873) | CHI EA | 2010 |
 | A Survey of Human Computation Systems | [paper](http://ieeexplore.ieee.org/abstract/document/5283450/) | CSE | 2009 |
