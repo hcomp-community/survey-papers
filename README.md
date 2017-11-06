@@ -8,6 +8,7 @@ Collection of survey papers about human computation
 | Crowdsourcing Processes: A Survey of Approaches and Opportunities.  | [paper](http://ieeexplore.ieee.org/document/7274240/)| IEEE Internet Computing | 2016 |
 | Crowdsourcing: A taxonomy and systematic mapping study | [paper](http://www.sciencedirect.com/science/article/pii/S1574013715000052) | Computer Science Review | 2015 |
 | Brief survey of crowdsourcing for data mining | [paper](http://www.sciencedirect.com/science/article/pii/S0957417414003984) | Expert Systems with Applications | 2014 |
+| Considering human aspects on strategies for designing and managing distributed human computation | [paper](https://link.springer.com/article/10.1186/s13174-014-0010-4) | Journal of Internet Services and Applications | 2014 |
 | Quality Control in Crowdsourcing Systems: Issues and Directions | [paper](http://ieeexplore.ieee.org/document/6488672/) | IEEE Internet Computing | 2013 |
 | The future of crowd work | [paper](https://dl.acm.org/citation.cfm?id=2441923) | CSCW | 2013 |
 | Human computation: a survey and taxonomy of a growing field | [paper](https://dl.acm.org/citation.cfm?id=1979148) | CHI | 2011 |
